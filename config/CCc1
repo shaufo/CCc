@@ -16,8 +16,8 @@
 ruleset=🎯 全球直连,[]GEOSITE,private
 ruleset=🎯 全球直连,[]GEOIP,private,no-resolve
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
-ruleset=🎯 全球直连,clash-domain:https://raw.githubusercontent.com/shaufo/ACL4SSR/refs/heads/master/Clash/direct_domain.yaml,28800
-ruleset=🎯 全球直连,clash-classic:https://raw.githubusercontent.com/shaufo/ACL4SSR/refs/heads/master/Clash/direct_ip.yaml,28800
+ruleset=🎯 全球直连,clash-domain:https://raw.githubusercontent.com/shaufo/CCc/refs/heads/main/rule/custom_direct_domain.yaml,28800
+ruleset=🎯 全球直连,clash-classic:https://raw.githubusercontent.com/shaufo/CCc/refs/heads/main/rule/custom_direct_ip.yaml,28800
 
 ;国内游戏域名直连
 ruleset=🎯 全球直连,[]GEOSITE,category-games@cn
@@ -31,8 +31,8 @@ ruleset=🎯 全球直连,[]GEOSITE,category-public-tracker
 ; 广告拦截
 ;ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ;ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
-ruleset=🛑 全球拦截,clash-domain:https://raw.githubusercontent.com/shaufo/ACL4SSR/refs/heads/master/Clash/reject_domain.yaml,28800
-ruleset=🛑 全球拦截,clash-classic:https://raw.githubusercontent.com/shaufo/ACL4SSR/refs/heads/master/Clash/reject_ip.yaml,28800
+ruleset=🛑 全球拦截,clash-domain:https://raw.githubusercontent.com/shaufo/CCc/refs/heads/main/rule/custom_reject_domain.yaml,28800
+ruleset=🛑 全球拦截,clash-classic:https://raw.githubusercontent.com/shaufo/CCc/refs/heads/main/rule/custom_reject_ip.yaml,28800
 
 ; Google 国内服务
 ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
@@ -68,8 +68,8 @@ ruleset=🌍 Google,https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 ; 轻量代理规则
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
-ruleset=🚀 节点选择,clash-domain:https://raw.githubusercontent.com/shaufo/ACL4SSR/refs/heads/master/Clash/proxy_domain.yaml,28800
-ruleset=🚀 节点选择,clash-classic:https://raw.githubusercontent.com/shaufo/ACL4SSR/refs/heads/master/Clash/proxy_ip.yaml,28800
+ruleset=🚀 节点选择,clash-domain:https://raw.githubusercontent.com/shaufo/CCc/refs/heads/main/rule/custom_proxy_domain.yaml,28800
+ruleset=🚀 节点选择,clash-classic:https://raw.githubusercontent.com/shaufo/CCc/refs/heads/main/rule/custom_proxy_ip.yaml,28800
 
 ; 中国域名
 ruleset=🎯 全球直连,[]GEOSITE,cn
