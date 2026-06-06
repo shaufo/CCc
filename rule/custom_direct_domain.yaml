@@ -15,7 +15,7 @@ payload:
   - '+.hongxingdl.vip'
   - '+.the- best- airport.com'
   - '+.fuck.yytv.eu.org'
-  - '+.1000qm.vip'
+#  - '+.1000qm.vip'
   - '+.tmall.hk'
   - '+.dyebean.com'
   - '+.smallstrawberry.com'
@@ -27,4 +27,3 @@ payload:
   - '+.haitongnet.com'
   - '+.haitongnet.com.cn'
   - '+.download.proxmox.com'
-  - '+.1000qm.vip'
