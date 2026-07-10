@@ -46,3 +46,5 @@ payload:
   - '+.debian.map.fastly.net'
   - '+.easyenable.com'
   - '+.greasyfork.org'
+  - '+.jable.tv'
+  - '+.assets-cdn.jable.tv'
