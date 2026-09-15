@@ -53,3 +53,5 @@ payload:
   - '+.download.proxmox.com'
   - '+.fourhoi.com'
   - '+.surrit.com'
+  - '+.ping0.cc' 
+
